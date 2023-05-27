@@ -1,0 +1,6 @@
+<CVPSkillPoints>
+
+    <!-- Increases the skill points earned per level to 2, you can change this to whatever you'd prefer.-->
+    <set xpath="/progression/level/@skill_points_per_level">2</set>
+
+</CVPSkillPoints>

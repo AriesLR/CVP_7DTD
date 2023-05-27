@@ -1,0 +1,12 @@
+<CVPForeverTrader>
+
+    <!-- Traders -->
+	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@reset_interval">1</set>
+	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@min_inventory">50</set>
+	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@max_inventory">100</set>
+	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@min_items_swapped">50</set>
+	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@max_items_swapped">100</set>
+ 	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@open_time">0:00</set>
+	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@close_time">0:00</set>
+
+</CVPForeverTrader>

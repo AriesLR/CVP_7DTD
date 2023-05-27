@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+	<ModInfo>
+		<Name value="CVP_SkillPoints"/>
+		<Description value="Increases the skill points earned per level to 2"/>
+		<Author value="Bobjobob24"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>
