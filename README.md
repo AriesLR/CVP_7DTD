@@ -13,7 +13,7 @@ Modlet for increasing the drop probablity and lowering the despawn timer of zomb
 
 
 
-<sub>*This modlet will conflict with anything that modifies the drop chance and despawn timer for zombies (more than likely an overhaul or performance mod).</sub>
+<sub>*This modlet could conflict with anything that modifies the drop chance and despawn timer for zombies (more than likely an overhaul or performance mod).</sub>
 
 
 
@@ -25,7 +25,7 @@ Modlet for increasing the skill points earned per level (2 by default).
 
 
 
-<sub>*This modlet will conflict with anything that modifies the amount of skill points earned (more than likely an overhaul mod).</sub>
+<sub>*This modlet could conflict with anything that modifies the amount of skill points earned (more than likely an overhaul mod).</sub>
 
 
 
@@ -37,7 +37,7 @@ Modlet that makes the traders open 24/7. Also removes the open/close announcemen
 
 
 
-<sub>*This modlet will conflict with anything that modifies the length of time that the trader is open.</sub>
+<sub>*This modlet could conflict with anything that modifies the length of time that the trader is open.</sub>
 
 
 
@@ -49,7 +49,7 @@ Modlet for adding better loot to airdrops, they are MUCH more worth your time no
 
 
 
-<sub>*This modlet will conflict with anything that modifies airdrops.</sub>
+<sub>*This modlet could conflict with anything that modifies airdrops.</sub>
 
 
 
@@ -61,7 +61,7 @@ Modlet for linking mod slots with weapon/armor tier.
 
 
 
-<sub>*This modlet will conflict with anything that modifies mod slots.</sub>
+<sub>*This modlet could conflict with anything that modifies mod slots.</sub>
 
 
 
@@ -73,7 +73,7 @@ Modlet for increasing the speed (or maxVelocity to be specific) on all vehicles.
 
 
 
-<sub>*This modlet will conflict with anything that modifies vehicles speed.</sub>
+<sub>*This modlet could conflict with anything that modifies vehicles speed.</sub>
 
 
 
