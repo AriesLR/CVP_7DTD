@@ -5,6 +5,6 @@
 		<Name value="CVP_SkillPoints"/>
 		<Description value="Increases the skill points earned per level to 2"/>
 		<Author value="Bobjobob24"/>
-		<Version value="1.0"/>
+		<Version value="1.0.0"/>
 	</ModInfo>
 </xml>

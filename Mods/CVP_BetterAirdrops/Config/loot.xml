@@ -4,7 +4,6 @@
 	<append xpath="/lootcontainers/lootcontainer[@id='34']">
 	    <item group="groupToolsTiered" prob=".3"/>
 	    <item group="cannedfood" count="1,5" prob=".2"/>
-	    <item group="rareBooks" prob=".2"/>
 	    <item name="casinoCoin" count="420,4420" prob=".25"/>
 	    <item group="airdropMedicine" count="1,8" prob=".2"/>
 	    <item group="groupApparelPants" prob=".15"/>

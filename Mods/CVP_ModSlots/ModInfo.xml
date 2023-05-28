@@ -5,6 +5,6 @@
 		<Name value="CVP_ModSlots"/>
 		<Description value="Mod Slots are tied to tier for weapons/armor"/>
 		<Author value="Bobjobob24"/>
-		<Version value="1.0"/>
+		<Version value="1.0.0"/>
 	</ModInfo>
 </xml>
