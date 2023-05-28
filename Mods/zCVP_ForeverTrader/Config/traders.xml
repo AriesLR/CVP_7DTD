@@ -1,4 +1,4 @@
-<CVPForeverTrader>
+<CVP_ForeverTrader>
 
     <!-- Traders -->
 	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@reset_interval">1</set>
@@ -9,4 +9,4 @@
  	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@open_time">0:00</set>
 	<set xpath="/traders/trader_info[@id &lt; 3 or @id &gt; 5]/@close_time">0:00</set>
 
-</CVPForeverTrader>
+</CVP_ForeverTrader>

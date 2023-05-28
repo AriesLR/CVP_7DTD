@@ -1,8 +1,8 @@
-<CVPForeverTrader>
+<CVP_ForeverTrader>
 
     <!-- Removes the open/close sound from traders since the mod makes them always open -->
     <remove xpath="/Sounds/SoundDataNode[@name='trader_announce_open']"/>
     <remove xpath="/Sounds/SoundDataNode[@name='trader_announce_closing']"/>
     <remove xpath="/Sounds/SoundDataNode[@name='trader_announce_closed']"/>
 
-</CVPForeverTrader>
+</CVP_ForeverTrader>

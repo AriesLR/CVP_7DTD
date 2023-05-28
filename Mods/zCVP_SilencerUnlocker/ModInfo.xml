@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+	<ModInfo>
+		<Name value="CVP_SilencerUnlocker"/>
+		<Description value="Unlocks the silencer to be crafted at a workbench right away"/>
+		<Author value="Bobjobob24"/>
+		<Version value="1.0.0"/>
+	</ModInfo>
+</xml>

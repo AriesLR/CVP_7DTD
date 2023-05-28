@@ -1,0 +1,6 @@
+<CVP_SilencerUnlocker>
+
+    <!-- Unlocks silencer to be crafted at a workbench, you could also add more things here as long as you know the name of the item you want -->
+    <set xpath="recipes/recipe[@name='modGunSoundSuppressorSilencer' and @tags='learnable,workbenchCrafting']/@tags">workbenchCrafting</set>
+
+</CVP_SilencerUnlocker>

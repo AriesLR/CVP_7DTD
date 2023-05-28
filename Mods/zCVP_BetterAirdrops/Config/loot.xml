@@ -1,4 +1,4 @@
-<CVPBetterAirdrops>
+<CVP_BetterAirdrops>
 
 	<!-- Airdrop Contents and Probabilities -->
 	<append xpath="/lootcontainers/lootcontainer[@id='34']">
@@ -19,4 +19,4 @@
 	
  	<set xpath="/lootcontainers/lootcontainer[@id='34']/@count">10</set>
 
-</CVPBetterAirdrops>
+</CVP_BetterAirdrops>

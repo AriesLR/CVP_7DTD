@@ -1,0 +1,10 @@
+<CVP_FasterVehicles>
+
+    <!-- Increases the max velocity of each vehicle the first number is the max speed in m/s without holding shift, and the second number is WITH holding shift -->
+	<set xpath="/vehicles/vehicle[@name='vehicleGyrocopter']/property[@name='velocityMax']/@value">20,28</set>
+	<set xpath="/vehicles/vehicle[@name='vehicleBicycle']/property[@name='velocityMax']/@value">10,15</set>
+	<set xpath="/vehicles/vehicle[@name='vehicleMinibike']/property[@name='velocityMax']/@value">16,20</set>
+	<set xpath="/vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='velocityMax']/@value">22,27</set>
+	<set xpath="/vehicles/vehicle[@name='vehicle4x4Truck']/property[@name='velocityMax']/@value">21,26</set>
+
+</CVP_FasterVehicles>

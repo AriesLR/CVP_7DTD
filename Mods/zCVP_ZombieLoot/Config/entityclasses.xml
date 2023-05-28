@@ -1,0 +1,12 @@
+<CVP_ZombieLoot>
+
+    <!-- Increases loot drops | Between .02 - .25 (%2 - 25%) -->
+    <set xpath="/entity_classes/entity_class[contains(@name, 'zombie')]/property[@name='LootDropProb']/@value">.25</set>
+
+    <!-- Loot stays for 300 seconds (5 Minutes) -->
+    <set xpath="/entity_classes/entity_class[@name='EntityLootContainerRegular']/property[@name='TimeStayAfterDeath']/@value">300</set>
+    <set xpath="/entity_classes/entity_class[@name='EntityLootContainerStrong']/property[@name='TimeStayAfterDeath']/@value">300</set>
+    <set xpath="/entity_classes/entity_class[@name='EntityLootContainerBoss']/property[@name='TimeStayAfterDeath']/@value">300</set>
+    <set xpath="/entity_classes/entity_class[@name='EntityLootContainerBandit']/property[@name='TimeStayAfterDeath']/@value">300</set>
+
+</CVP_ZombieLoot>

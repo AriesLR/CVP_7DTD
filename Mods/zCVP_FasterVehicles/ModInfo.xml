@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+	<ModInfo>
+		<Name value="CVP_FasterVehicles"/>
+		<Description value="Make car go vroom"/>
+		<Author value="Bobjobob24"/>
+		<Version value="1.0.0"/>
+	</ModInfo>
+</xml>
