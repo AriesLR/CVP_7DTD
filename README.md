@@ -5,7 +5,7 @@
 
 
 ## CVP_ZombieLoot
-Mod/Modlet for increasing the drop probablity and despawn timer of zombie loot bags.
+Mod/Modlet for increasing the drop probablity and lowering the despawn timer of zombie loot bags.
 
 > To edit the drop probability and despawn timer open the Mods folder and go to CVP_ZombieLoot/Config/entityclasses.xml and edit the proper values.
 
