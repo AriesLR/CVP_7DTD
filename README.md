@@ -6,6 +6,19 @@
 
 
 
+ # Installation
+ 1. Go to your server folder and create a "Mods" folder if you don't already have one
+
+ 2. Drag and drop the "zCVP" modlets of your choosing into your mods folder
+
+ 3. Profit?
+
+
+ *Installation is the same for local games/singleplayer, but instead of a server folder it's your game folder.*
+
+
+
+
 ## CVP_ZombieLoot
 Modlet for increasing the drop probablity and lowering the despawn timer of zombie loot bags.
 
