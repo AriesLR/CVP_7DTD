@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+	<ModInfo>
+		<Name value="CVP_T6Crafting"/>
+		<Description value="Allows you to craft T6 items with max perk levels"/>
+		<Author value="Bobjobob24"/>
+		<Version value="1.0.0"/>
+	</ModInfo>
+</xml>

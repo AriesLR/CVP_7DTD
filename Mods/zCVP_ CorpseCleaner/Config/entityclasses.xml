@@ -1,0 +1,13 @@
+<CVP_CorpseCleaner>
+
+    <append xpath="/entity_classes/entity_class[contains(@name, 'zombie')]">
+
+        <!-- Time (in seconds) that zombie bodies stay after they die (again?) -->
+        <property name="TimeStayAfterDeath" value="10"/>
+
+        <!-- Easter egg :P -->
+        <property name="DeadBodyHitPoints" value="69"/>
+        
+    </append>
+
+</CVP_CorpseCleaner>

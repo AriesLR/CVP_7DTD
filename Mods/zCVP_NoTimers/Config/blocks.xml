@@ -1,0 +1,5 @@
+<CVP_NoTimers>
+
+	<set xpath="/blocks/block/property[@name='TakeDelay' and not(@value='1')]/@value">1</set>
+
+</CVP_NoTimers>

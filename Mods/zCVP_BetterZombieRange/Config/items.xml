@@ -1,0 +1,9 @@
+<CVP_BetterZombieRange>
+
+    <!-- Regular Zombies -->
+	<set xpath="/items/item[@name='meleeHandMaster']/property[@class='Action0']/property[@name='Range']/@value">1.4</set>
+
+    <!-- Cop Zombies -->
+	<set xpath="/items/item[@name='meleeHandZombieCop']/property[@class='Action0']/property[@name='Range']/@value">1.4</set>
+
+</CVP_BetterZombieRange>

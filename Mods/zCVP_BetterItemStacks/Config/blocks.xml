@@ -1,0 +1,16 @@
+<CVP_BetterItemStacks>
+
+	<set xpath="/blocks/block[starts-with(@name, 'mine')]/property[@name='Stacknumber']/@value">30000</set>	
+	<set xpath="/blocks/block[@name='rScrapIronPlateMine']/property[@name='Stacknumber']/@value">30000</set>
+	
+	<insertAfter xpath="/blocks/block[@name='cropsGrowingMaster']/property[@name='Material']" >
+		<property name="Stacknumber" value="30000"/>
+	</insertAfter>
+	<insertAfter xpath="/blocks/block[@name='treeMaster']/property[@name='Material']" >
+		<property name="Stacknumber" value="30000"/>
+	</insertAfter>
+	<insertAfter xpath="/blocks/block[@name='woodLogPillar100']/property[@name='MaxDamage']" >
+		<property name="Stacknumber" value="30000"/>
+	</insertAfter>
+
+</CVP_BetterItemStacks>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+	<ModInfo>
+		<Name value="CVP_BetterItemStacks"/>
+		<Description value="Increases most stack sizes to 30k and casino coins/old cash to 50k, some things are kept low for difficulty reasons"/>
+		<Author value="Bobjobob24"/>
+		<Version value="1.0.0"/>
+	</ModInfo>
+</xml>

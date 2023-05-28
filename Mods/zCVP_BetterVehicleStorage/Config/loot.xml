@@ -1,0 +1,18 @@
+<CVP_BetterVehicleStorage>
+
+	<!-- Bicycle Storage -->
+	<set xpath="/lootcontainers/lootcontainer[@id='76']/@size">10,3</set>
+	
+	<!-- Minibike Storage -->
+	<set xpath="/lootcontainers/lootcontainer[@id='77']/@size">10,5</set>
+
+	<!-- Motorcycle Storage -->
+	<set xpath="/lootcontainers/lootcontainer[@id='78']/@size">10,7</set>
+
+	<!-- 4x4 Truck Storage -->
+	<set xpath="/lootcontainers/lootcontainer[@id='79']/@size">10,9</set>
+
+	<!-- Gyrocopter Storage -->
+	<set xpath="/lootcontainers/lootcontainer[@id='80']/@size">10,6</set>
+
+</CVP_BetterVehicleStorage>

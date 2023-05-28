@@ -1,0 +1,14 @@
+<CVP_BetterTraps>
+
+    <!-- Spike Traps -->
+	<set xpath="blocks/block[@name='trapSpikesWoodMaster']/property[@class='RepairItems']/property[@name='resourceWood']/@value">10</set>
+	<set xpath="blocks/block[@name='trapSpikesWoodMaster']/property[@name='Damage_received']/@value">8</set>
+	<set xpath="blocks/block[@name='trapSpikesScrapIronMaster']/property[@class='RepairItems']/property[@name='resourceForgedIron']/@value">1</set>
+	<set xpath="blocks/block[@name='trapSpikesScrapIronMaster']/property[@name='Damage_received']/@value">2</set>
+
+    <!-- Blade Traps -->
+    <setattribute xpath="/blocks/block[@name='bladeTrap']/property[@name='DamageReceived']" name="value">1</setattribute>
+	<setattribute xpath="/blocks/block[@name='bladeTrap']/property[@name='StabilitySupport']" name="value">true</setattribute>
+	<setattribute xpath="/blocks/block[@name='bladeTrap']/property[@name='MaxDamage']" name="value">10000</setattribute>	
+
+</CVP_BetterTraps>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+	<ModInfo>
+		<Name value="CVP_BetterVehicleStorage"/>
+		<Description value="Increases size of vehicle storage, still somewhat balanced"/>
+		<Author value="Bobjobob24"/>
+		<Version value="1.0.0"/>
+	</ModInfo>
+</xml>

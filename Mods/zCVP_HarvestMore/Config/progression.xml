@@ -1,0 +1,13 @@
+<CVP_HarvestMore>
+
+  <set xpath="progression/perks/perk[@name='perkSalvageOperations']/effect_group/passive_effect[@name='HarvestCount']/@value">.5,2.5</set>
+  <set xpath="progression/perks/perk[@name='perkSalvageOperations']/effect_group/passive_effect[@name='PlayerExpGain']/@value">-.3,-.65</set>
+  <set xpath="progression/perks/perk[@name='perkMotherLode']/effect_group/passive_effect[@name='HarvestCount']/@value">.5,2.5</set>
+  <set xpath="progression/perks/perk[@name='perkMotherLode']/effect_group/passive_effect[@name='PlayerExpGain']/@value">-.3,-.65</set>
+  <set xpath="progression/perks/perk[@name='perkTheHuntsman']/effect_group/passive_effect[@name='HarvestCount']/@value">.5,2.5</set>
+
+  <set xpath="progression/perks/perk[starts-with(@name, 'perkWasteTreasures')]/effect_group/passive_effect[@name='HarvestCount']/@value">3</set>
+  <set xpath="progression/perks/perk[@name='perkHuntingJournalComplete']/effect_group/passive_effect[@name='HarvestCount']/@value">3</set>
+  <set xpath="progression/perks/perk[@name='perkArtOfMiningLuckyStrike']/effect_group/passive_effect[@name='HarvestCount']/@value">3</set>
+
+</CVP_HarvestMore>
