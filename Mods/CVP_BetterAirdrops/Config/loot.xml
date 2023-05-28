@@ -12,7 +12,7 @@
 	    <item group="groupApparelCoats" prob=".15"/>
 	    <item group="groupApparelHats" prob=".25"/>
 	    <item group="groupApparelBootsShoes" prob=".15"/>
-	    <item group="groupArmorT3" count="1,2" prob=".1"/>
+	    <item group="groupArmorT0" count="1,2" prob=".1"/>
 	    <item group="groupWeaponsMixed" count="1,2" prob=".05"/>
 	    <item group="groupAmmoRegularGunslingerT1" prob=".15"/>
 	    <item group="groupAmmoRegular" prob=".15"/>
