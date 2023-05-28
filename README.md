@@ -1,7 +1,7 @@
 # CVP_7DTD
  7 Days to Die modpack aimed at being **server-side** friendly (and to fix some performance/QoL issues for myself and friends). Save the yourself hassle of guiding your inexperienced friends through installing mods.
 
- Keep modlet folder names the same. The "z" at the beginning is there to force the CVP mods to the end of the load order to avoid conflicts. Things may not work correctly if you change the names.
+ ***Keep modlet folder names the same. The "z" at the beginning is there to force the CVP mods to the end of the load order to avoid conflicts. Things may not work correctly if you change the names.***
 
 
 
