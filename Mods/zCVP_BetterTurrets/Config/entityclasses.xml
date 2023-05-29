@@ -1,0 +1,12 @@
+<CVP_BetterTurrets>
+	
+	<set xpath="/entity_classes/entity_class[@name='junkTurretGun']/property[@name='MaxDistance']/@value">40</set>
+	<set xpath="/entity_classes/entity_class[@name='junkTurretGun']/property[@name='PitchRange']/@value">165</set>
+	<set xpath="/entity_classes/entity_class[@name='junkTurretGun']/property[@name='YawRange']/@value">165</set>
+	<set xpath="/entity_classes/entity_class[@name='junkTurretGun']/property[@name='RaySpread']/@value">.030</set>
+	<set xpath="/entity_classes/entity_class[@name='junkTurretGun']/property[@name='MaxOwnerDistance']/@value">120</set>
+	<set xpath="/entity_classes/entity_class[@name='junkTurretGun']/property[@name='TurnSpeed']/@value">45</set>
+	<set xpath="/entity_classes/entity_class[@name='junkTurretGun']/property[@name='WakeUpTime']/@value">0.1</set>
+
+</CVP_BetterTurrets>
+

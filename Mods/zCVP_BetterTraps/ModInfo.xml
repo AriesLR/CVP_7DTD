@@ -2,8 +2,8 @@
 
 <xml>
 	<ModInfo>
-		<Name value="CVP_"/>
-		<Description value=""/>
+		<Name value="CVP_BetterTraps"/>
+		<Description value="Spike traps take less damage, and the durability of blade traps is increased"/>
 		<Author value="Bobjobob24"/>
 		<Version value="1.0.0"/>
 	</ModInfo>

@@ -106,3 +106,10 @@ This modlet automatically cleans up zombie bodies after 10 seconds to reduce lag
 > To modify the cleanup settings, go to the Mods folder and open `zCVP_CorpseCleaner/Config/entityclasses.xml`. Adjust or add the relevant values.
 
 *Note: This modlet may conflict with mods that modify zombies.*
+
+### CVP_BetterTurrets
+This modlet enhances turrets by increasing the maximum amount of turrets and implementing various general tweaks for improved functionality.
+
+> To customize the turret settings, navigate to the Mods folder and open `zCVP_BetterTurrets/Config/entityclasses.xml`, `zCVP_BetterTurrets/Config/items.xml`, or `zCVP_BetterTurrets/Config/progression.xml`. Adjust or add the relevant values as desired.
+
+*Note: This modlet may conflict with other mods that modify turrets.*

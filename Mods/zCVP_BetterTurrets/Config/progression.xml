@@ -1,0 +1,7 @@
+<CVP_BetterTurrets>
+	
+	<set xpath="/progression/perks/perk[@name='perkTurrets']/effect_group/passive_effect[@name='JunkTurretActiveRange'][@value='10,14,15,16,17,18']/@value">80,85,90,95,100,110</set>
+    <set xpath="/progression/perks/perk[@name='perkTurrets']/effect_group/passive_effect[@name='JunkTurretActiveCount'][@operation='base_set']/@value">20</set>
+
+</CVP_BetterTurrets>
+

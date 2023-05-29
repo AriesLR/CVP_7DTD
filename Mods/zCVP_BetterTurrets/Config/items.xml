@@ -1,0 +1,10 @@
+<CVP_BetterTurrets>
+
+    <set xpath="/items/item[@name='gunBotT2JunkTurret']/effect_group[@name='gunBotT2JunkTurret']/passive_effect[@name='MagazineSize'][@operation='base_set']/@value">3200</set>
+    <set xpath="/items/item[@name='gunBotT2JunkTurret']/effect_group[@name='gunBotT2JunkTurret']/passive_effect[@name='DegradationPerUse'][@operation='base_set']/@value">0.02</set>
+    <set xpath="/items/item[@name='ammoJunkTurretRegular']/effect_group[@name='ammoJunkTurretRegular']/passive_effect[@name='MaxRange'][@operation='base_set']/@value">40</set>
+    <set xpath="/items/item[@name='ammoJunkTurretShell']/effect_group[@name='ammoJunkTurretShell']/passive_effect[@name='MaxRange'][@operation='base_set']/@value">40</set>
+    <set xpath="/items/item[@name='ammoJunkTurretAP']/effect_group[@name='ammoJunkTurretAP']/passive_effect[@name='MaxRange'][@operation='base_set']/@value">50</set>
+    	
+</CVP_BetterTurrets>    
+    	
