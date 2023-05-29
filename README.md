@@ -15,51 +15,97 @@
 ## Modlets Included
 
 ### CVP_ZombieLoot
-Modlet for increasing the drop probability and lowering the despawn timer of zombie loot bags. This modlet enhances the loot system when looting zombies.
+Modlet for increasing the drop probability and lowering the despawn timer of zombie loot bags.
 
-> To edit the drop probability and despawn timer, open the Mods folder and go to `zCVP_ZombieLoot/Config/entityclasses.xml` and edit the appropriate values.
+> To edit the drop probability and despawn timer, open the Mods folder and go to `zCVP_ZombieLoot/Config/entityclasses.xml` and edit the proper values.
 
-*Note: This modlet could conflict with anything that modifies zombies.*
+*This modlet could conflict with anything that modifies zombies at all.*
 
 ### CVP_SkillPoints
-Modlet for increasing the skill points earned per level (2 by default). This modlet provides a faster skill progression system.
+Modlet for increasing the skill points earned per level (2 by default).
 
-> To edit the amount of skill points earned, open the Mods folder and go to `zCVP_SkillPoints/Config/progression.xml` and edit the appropriate values.
+> To edit the amount of skill points earned, open the Mods folder and go to `zCVP_SkillPoints/Config/progression.xml` and edit the proper values.
 
-*Note: This modlet could conflict with anything that modifies the amount of skill points earned.*
+*This modlet could conflict with anything that modifies the amount of skill points earned (more than likely an overhaul mod).*
 
 ### CVP_ForeverTrader
-Modlet that makes the traders open 24/7. It removes the open/close announcements since they're no longer needed.
+Modlet that makes the traders open 24/7. Also removes the open/close announcements since they're no longer needed.
 
-*Note: This modlet could conflict with anything that modifies the length of time that the trader is open.*
+*This modlet could conflict with anything that modifies the length of time that the trader is open.*
 
 ### CVP_BetterAirdrops
-Modlet for adding better loot to airdrops. Airdrops will now contain more valuable items.
+Modlet for adding better loot to airdrops, they are MUCH more worth your time now.
 
-> To edit the loot, go to the Mods folder and navigate to `zCVP_BetterAirdrops/Config/loot.xml` and edit or add the appropriate values.
+> To edit the loot, go to the Mods folder and go to `zCVP_BetterAirdrops/Config/loot.xml` and edit/add the proper values.
 
-*Note: This modlet could conflict with anything that modifies airdrops.*
+*This modlet could conflict with anything that modifies airdrops.*
 
 ### CVP_ModSlots
-Modlet for linking mod slots with weapon/armor tier. It provides a more streamlined and intuitive modding experience.
+Modlet for linking mod slots with weapon/armor tier.
 
-*Note: This modlet could conflict with anything that modifies mod slots.*
+*This modlet could conflict with anything that modifies mod slots.*
 
 ### CVP_FasterVehicles
-Modlet for increasing the speed (or maxVelocity) of all vehicles. Get around the world faster with this modlet.
+Modlet for increasing the speed (or maxVelocity to be specific) on all vehicles.
 
-> To edit the vehicle speed, go to the Mods folder and navigate to `zCVP_FasterVehicles/Config/vehicles.xml` and edit or add the appropriate values.
+> To edit the speed, go to the Mods folder and go to `zCVP_FasterVehicles/Config/vehicles.xml` and edit/add the proper values.
 
-*Note: This modlet could conflict with anything that modifies vehicle speed.*
+*This modlet could conflict with anything that modifies vehicle speed.*
 
 ### CVP_SilencerUnlocker
-Modlet for unlocking the silencer to be crafted immediately, as long as you have a workbench. Enjoy suppressed firearms without delay.
+Modlet for unlocking the silencer to be crafted immediately, as long as you have a workbench.
 
-> You can add other items to this modlet as long as you know the proper names.
+> You could add other items to this if you'd like as long as you know the proper names.
 
-*Note: This modlet shouldn't conflict with anything.*
+*This modlet shouldn't conflict with anything.*
 
 ### CVP_BetterItemStacks
-Modlet for increasing most item stacks to 30,000 and casino coins/old cash to 50,000. Manage your inventory more efficiently with larger stack sizes.
+Modlet for increasing most item stacks to 30k and casino coins/old cash to 50k.
 
-> To edit the stack sizes, go to the Mods folder and navigate to `
+> To edit the stacks, go to the Mods folder and go to `zCVP_BetterItemStacks/Config/blocks.xml` or `zCVP_BetterItemStacks/Config/items.xml` and edit/add the proper values.
+
+*This modlet could conflict with anything that modifies stack sizes.*
+
+### CVP_BetterVehicleStorage
+Modlet for increasing vehicle storage for those long-range loot runs. Large increase to storage sizes, but still somewhat balanced.
+
+> To edit the storage, go to the Mods folder and go to `zCVP_BetterVehicleStorage/Config/loot.xml` and edit/add the proper values.
+
+*This modlet could conflict with anything that modifies vehicle storage.*
+
+### CVP_NoTimers
+Modlet for removing the timers from looting and picking up blocks.
+
+*This modlet could conflict with anything that modifies loot timers.*
+
+### CVP_BetterTraps
+Modlet for making spike traps take less damage and increasing the durability of blade traps.
+
+> To edit the traps, go to the Mods folder and go to `zCVP_BetterTraps/Config/blocks.xml` and edit/add the proper values.
+
+*This modlet could conflict with anything that modifies existing traps.*
+
+### CVP_BetterZombieRange
+Modlet for lowering the melee range of zombies.
+
+> To edit the range, go to the Mods folder and go to `zCVP_BetterZombieRange/Config/items.xml` and edit/add the proper values.
+
+*This modlet could conflict with anything that modifies zombies at all.*
+
+### CVP_T6Crafting
+Modlet for allowing you to craft T6 items with max perk levels.
+
+*This modlet could conflict with anything that modifies crafting levels.*
+
+### CVP_HarvestMore
+Modlet to increase gather amount by 3x.
+
+*This modlet could conflict with anything that modifies the harvest count of items.*
+
+### CVP_CorpseCleaner
+Modlet to clean up zombie bodies after 10 seconds to help reduce lag.
+
+> To edit the cleanup, go to the Mods folder and go to `zCVP_CorpseCleaner/Config/entityclasses.xml` and edit/add the proper values.
+
+*This modlet could conflict with anything that modifies zombies at all.*
+
