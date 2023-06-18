@@ -7,8 +7,7 @@
 	<set xpath="blocks/block[@name='trapSpikesScrapIronMaster']/property[@name='Damage_received']/@value">2</set>
 
     <!-- Blade Traps -->
-    <setattribute xpath="/blocks/block[@name='bladeTrap']/property[@name='DamageReceived']" name="value">1</setattribute>
-	<setattribute xpath="/blocks/block[@name='bladeTrap']/property[@name='StabilitySupport']" name="value">true</setattribute>
-	<setattribute xpath="/blocks/block[@name='bladeTrap']/property[@name='MaxDamage']" name="value">10000</setattribute>	
+	<set xpath="/blocks/block[@name='bladeTrap']/property[@name='DamageReceived']/@value">1</set>
+
 
 </CVP_BetterTraps>
