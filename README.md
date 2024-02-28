@@ -113,3 +113,6 @@ This modlet enhances turrets by increasing the maximum amount of turrets and imp
 > To customize the turret settings, navigate to the Mods folder and open `zCVP_BetterTurrets/Config/entityclasses.xml`, `zCVP_BetterTurrets/Config/items.xml`, or `zCVP_BetterTurrets/Config/progression.xml`. Adjust or add the relevant values as desired.
 
 *Note: This modlet may conflict with other mods that modify turrets.*
+
+### Tips
+[Buy Me a Coffee](https://www.buymeacoffee.com/arieslr)
